@@ -1,0 +1,53 @@
+.add_doctor{
+    flex: 4;
+    margin: 20px;
+    padding: 20px;
+    box-shadow:4px 3px 80px -27px rgba(98, 98, 98, 0.73);
+        -webkit-box-shadow: 4px 3px 80px -27px rgba(91, 91, 91, 0.73);
+        -moz-box-shadow: 4px 3px 80px -27px rgba(96, 96, 96, 0.73);
+        border-radius: 5px;
+    .newDoctor{
+        display: flex;
+        flex-wrap: wrap;
+        .Item{
+            width: 400px;
+            display: flex;
+            flex-direction: column;
+            margin-top: 10px;
+            margin-right: 20px;
+            label{
+                margin-bottom: 10px;
+                font-size: 14px;
+                font-weight: 600;
+                color: gray;
+            }
+            input{
+                height: 20px;
+                padding: 10px;
+                border: 1px solid gray;
+                border-radius: 5px;
+            }
+            .Gender{
+                input{
+                    margin-top: 15px;
+                }
+                label{
+                    margin: 10px;
+                    font-size: 18px;
+                    color: #555;
+                }
+            }
+        }
+        .btnInsert{
+            width: 200px;
+            border: none;
+            background-color: darkblue;
+            color: #fff;
+            padding: 7px 10px;
+            font-weight: 600;
+            border-radius: 10px;
+            margin-top: 30px;
+            cursor: pointer;
+        }
+    }
+}

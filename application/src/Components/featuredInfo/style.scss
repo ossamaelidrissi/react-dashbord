@@ -1,0 +1,39 @@
+.featured{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    .item{
+        flex: 1;
+        margin: 10px 20px;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 4px 3px 80px -27px rgba(98, 98, 98, 0.73);
+        -webkit-box-shadow: 4px 3px 80px -27px rgba(91, 91, 91, 0.73);
+        -moz-box-shadow: 4px 3px 80px -27px rgba(96, 96, 96, 0.73);
+        .title{
+            font-size: 20px;
+        }
+        .Container{
+            margin: 10px 0px;
+            display: flex;
+            align-items: center;
+            .Users{
+                font-size: 30px;
+                font-weight: 600;
+            }
+            .Rate{
+                display: flex;
+                align-items: center;
+                margin-left: 20px;
+            }
+            .Icon{
+                font-size: 14px;
+                margin-left: 5px;
+                color: green;
+            }
+            .negative{
+                color: red;
+        }
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+     
+    "Compared to last year" : "Par rapport au l'année dernière ",
+    "Compared to last month" : "Par rapport au mois dernièr ",
+    "Compared to last day" : "Par rapport au jour dernièr ",
+
+    "Display" : "Affichage ",
+    "Privacy & Security" : "Confidentialité et sécurité",
+    "Help & Support":"Aide et soutien",
+    "Log Out" : "Deconnecter",
+
+    "New Join Members" : "Nouveaux membres rejoindre",
+
+    "Clients Analytics" : "Analytiques des clients",
+        "Womans" : "Femmes",
+        "Mens" : "Hommes",
+        "Kids" : "Enfants",
+
+    "Meeting" : "Réunions",
+        "Doctor":"Medecin",
+        "Hospital" : "Hôpital",
+        "Time" : "Temps",
+        "Reports" : "Raports",
+    
+    "Dashbord" : "Tableau",
+        "Home" : "Accueill",
+        "Analytics" : "Analytique",
+
+    "Messages" : "Messages",
+        "Send with E-mail":"Envoi avec E-mail",
+        "Send with Phone":"Envoi avec Telephone",
+        "To" : "A",
+        "Subject" : "Objet",
+        "Put Subject" : "écrire l'objet",
+        "Put Number" : "écrire le nomber",
+        "Put Email" : "écrire l'email",
+        "Number" : "Nombre",
+        "Send" : "Envoyer",
+        "Your message has been sended" : "Votre message a été envoyé",
+
+    "Clients" : "Clients",
+        "Members" : "Membres",
+        "Reports" : "Rapports"
+}

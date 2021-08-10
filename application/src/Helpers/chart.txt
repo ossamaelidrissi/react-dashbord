@@ -1,0 +1,1 @@
+npm i react-chartjs-2 chart.js
